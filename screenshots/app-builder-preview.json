@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AgentOS — Tell them the job. Check back when it matters.",
+      "hasCanvas": false,
+      "bodyTextLen": 2750,
+      "bodyTextHash": "c3ac8d4fdf873723ce48031829cceba58165d5ae9472501ef8f342d8333dc1de",
+      "bodyTextPrefix": "Skip to content AgentOS How it works The team Questions Open the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AgentOS — Tell them the job. Check back when it matters.",
+      "hasCanvas": false,
+      "bodyTextLen": 2718,
+      "bodyTextHash": "dd14a98481752604a65ea08206bafa716a87a3d8b751be4c83f105b2c4e77ad9",
+      "bodyTextPrefix": "Skip to content AgentOS Open the desk A simpler way to work with",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

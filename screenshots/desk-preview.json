@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/desk",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Your desk — AgentOS",
+      "hasCanvas": false,
+      "bodyTextLen": 969,
+      "bodyTextHash": "f56eb57ed5e7ea47b52b7608e00e23a524703d4403469e593dd8178680ee287b",
+      "bodyTextPrefix": "AgentOS Today Team Tasks Approvals 1 Start fresh Desk · saved on",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/desk-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Your desk — AgentOS",
+      "hasCanvas": false,
+      "bodyTextLen": 937,
+      "bodyTextHash": "8a874cd1bf6884e1df8dfa5695a08f9105519853fa81f44f3e31e6b8aecfb553",
+      "bodyTextPrefix": "AgentOS About Today What needs you, and what is already moving. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/desk-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/desk-preview.json"
+}
